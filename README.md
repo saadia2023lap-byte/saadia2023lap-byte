@@ -11,7 +11,7 @@ Here are my official certificates from freeCodeCamp:
 
   <img width="625" height="427" alt="ResponsiveWebDesign_Certificate_FCC" src="https://github.com/user-attachments/assets/c8761035-56c8-43ae-ab6f-18fd5f05f9e9" />
   
-### 🇬🇧 English Language
+### <img src="https://flagcdn.com/16x12/gb.png" width="16" height="12"> English Language
 * *B1 English for Developers*
   
   <img width="626" height="427" alt="B2_English_Certificate_FCC" src="https://github.com/user-attachments/assets/34c528c4-d15b-4f5e-b88a-a1bf223ba3c1" />
