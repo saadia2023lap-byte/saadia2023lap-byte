@@ -1,4 +1,3 @@
-<img width="451" height="297" alt="download" src="https://github.com/user-attachments/assets/9498a89f-109e-4536-a11b-d956f302b71b" />
 # Hi there, I'm SaadiaCoding 👋
 
 Welcome to my GitHub profile! I am a passionate and beginner learning web development.
